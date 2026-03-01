@@ -40,13 +40,13 @@
 ### 📫 Vamos nos conectar?
 
 <div align="left">
-  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:ms4402334@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-silva-80a74b291/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/5562SEUNUMERO" target="_blank">
+  <a href="https://wa.me/5562998389962" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>

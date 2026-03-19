@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 Estudante de **Ciência da Computação** na **UNIP - Goiânia**.
+- 🎓 Estudante de **Engenharia de Software - UFG**.
 - 💡 Atualmente focado em dominar o ecossistema **Fullstack**.
 - 🌱 No momento, estou aprimorando meus conhecimentos em **HTML5, CSS3 e JavaScript**.
 - 🎯 Objetivo: Me aprofundar no **Backend** com **PHP, Java e MySQL**.

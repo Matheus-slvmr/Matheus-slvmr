@@ -46,20 +46,15 @@
 
 <div align="left">
 
-#### 🔹 [Seu Projeto 1](https://github.com/Matheus-slvmr/seu-projeto-1)
-**Descrição:** Breve descrição do seu projeto  
-**Tecnologias:** Go, PostgreSQL  
-**Destaques:** Funcionalidades principais
+#### 🔹 [Setor Comercial do Flamboyant Shopping]([https://github.com/Matheus-slvmr/seu-projeto-1](https://github.com/Grupo6-ProjetoIntegrador/Projeto-Flamboyant.git))
+**Descrição:** Eu e meu grupo estamos desenvolvendo um sfotware de gestao de lojistas para o Flamboyant, somos encarregados do setor comercial
+**Tecnologias:** Go, PostgreSQL,html,css,react,typescript 
+**Destaques:** Funcionalidade: criaçao de propostas e contratos, dashboard de faturamentos e disponibilidade de local
 
-#### 🔹 [Seu Projeto 2](https://github.com/Matheus-slvmr/seu-projeto-2)
-**Descrição:** Breve descrição do seu projeto  
-**Tecnologias:** HTML5, CSS3, JavaScript  
-**Destaques:** Funcionalidades principais
-
-#### 🔹 [Seu Projeto 3](https://github.com/Matheus-slvmr/seu-projeto-3)
-**Descrição:** Breve descrição do seu projeto  
-**Tecnologias:** C++, PostgreSQL  
-**Destaques:** Funcionalidades principais
+#### 🔹 [Agendamento de clientes para Barbearia]([https://github.com/Matheus-slvmr/seu-projeto-2](https://github.com/Matheus-slvmr/Barbearia.git))
+**Descrição:** software web para agendamento para barbearias
+**Tecnologias:** HTML5, CSS3, GO 
+**Destaques:** Funcionalidades principais: agendamento de clientes, disponibilidade de horarios, login adm, automaçao com Whatzap
 
 > 💡 Visite meu perfil para ver mais projetos: [github.com/Matheus-slvmr](https://github.com/Matheus-slvmr)
 

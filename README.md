@@ -1,18 +1,20 @@
 # Olá, eu sou o Matheus! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-slvmr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-slvmr&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="180em" />
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
 - 🎓 Estudante de **Engenharia de Software - UFG**.
-- 💡 Atualmente focado em dominar o ecossistema **Fullstack**.
-- 🌱 No momento, estou aprimorando meus conhecimentos em **HTML5, CSS3 e JavaScript**.
-- 🎯 Objetivo: Me aprofundar no **Backend** com **PHP, Java e MySQL**.
-- 👨‍💻 Tenho 18 anos e sou apaixonado por resolver problemas através do código.
+- 💡 Desenvolvedor Fullstack em evolução contínua.
+- 🌱 Com conhecimentos sólidos em **HTML5, CSS3 e JavaScript**.
+- 🔧 Desenvolvendo em **Go** e aprendendo **C++**.
+- 🗄️ Trabalhando com **PostgreSQL** para gerenciamento de dados.
+- 👨‍💻 Tenho 19 anos e sou apaixonado por resolver problemas através do código.
+- 🎯 Objetivo: Criar soluções inovadoras e eficientes.
 
 ---
 
@@ -20,20 +22,48 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h4>Frontend (Estudando)</h4>
+    <td align="center" width="33%">
+      <h4>Frontend</h4>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
     </td>
-    <td align="center" width="50%">
-      <h4>Backend & DB (Próximos Passos)</h4>
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <td align="center" width="33%">
+      <h4>Backend</h4>
+      <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <h4>Banco de Dados</h4>
+      <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
 </table>
+
+---
+
+### 💼 Meus Projetos
+
+<div align="left">
+
+#### 🔹 [Seu Projeto 1](https://github.com/Matheus-slvmr/seu-projeto-1)
+**Descrição:** Breve descrição do seu projeto  
+**Tecnologias:** Go, PostgreSQL  
+**Destaques:** Funcionalidades principais
+
+#### 🔹 [Seu Projeto 2](https://github.com/Matheus-slvmr/seu-projeto-2)
+**Descrição:** Breve descrição do seu projeto  
+**Tecnologias:** HTML5, CSS3, JavaScript  
+**Destaques:** Funcionalidades principais
+
+#### 🔹 [Seu Projeto 3](https://github.com/Matheus-slvmr/seu-projeto-3)
+**Descrição:** Breve descrição do seu projeto  
+**Tecnologias:** C++, PostgreSQL  
+**Destaques:** Funcionalidades principais
+
+> 💡 Visite meu perfil para ver mais projetos: [github.com/Matheus-slvmr](https://github.com/Matheus-slvmr)
+
+</div>
 
 ---
 

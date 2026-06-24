@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus! 👋
+# Olá, eu sou o Matheus! 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheus-slvmr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
@@ -11,9 +11,9 @@
 - 🎓 Estudante de **Engenharia de Software - UFG**.
 - 💡 Desenvolvedor Fullstack em evolução contínua.
 - 🌱 Com conhecimentos sólidos em **HTML5, CSS3 e JavaScript**.
-- 🔧 Desenvolvendo em **Go** e aprendendo **C++**.
+- 🔧 Desenvolvendo em **Go** e aprendendo **C**.
 - 🗄️ Trabalhando com **PostgreSQL** para gerenciamento de dados.
-- 👨‍💻 Tenho 19 anos e sou apaixonado por resolver problemas através do código.
+- 👨‍💻 Tenho 19 anos.
 - 🎯 Objetivo: Criar soluções inovadoras e eficientes.
 
 ---

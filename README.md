@@ -41,6 +41,10 @@ Sou estudante de Engenharia de Software (UFG) e estou focado em construir aplica
 - Descrição: Plataforma completa para gestão de barbearias e agendamentos — criada para otimizar o fluxo de clientes, organização de horários e faturamento dos estabelecimentos.
 - Funcionalidades: agendamento online, painel administrativo para profissionais, gestão de clientes, integração com notificações (WhatsApp/Email) e relatórios de faturamento.
 - Tecnologias: Go, HTML/CSS, JavaScript, PostgreSQL
+- Demo / Deploy:
+  - Portal público: https://barberlink-web-46afa3250a71.herokuapp.com/
+  - Painel de gestão: https://barberlink-web-46afa3250a71.herokuapp.com/gestao
+  - Exemplo de barbearia: https://barberlink-web-46afa3250a71.herokuapp.com/barbearia/g8-barber-shop
 
 ---
 
@@ -48,6 +52,7 @@ Sou estudante de Engenharia de Software (UFG) e estou focado em construir aplica
 - Descrição: Projeto de e‑commerce/marketplace pensado para vendas locais e gestão de catálogos.
 - Funcionalidades: catálogo de produtos, carrinho, checkout, painel administrativo para gestão de produtos e pedidos.
 - Tecnologias: Go (backend), PostgreSQL, HTML/CSS, JavaScript
+- Demo / Deploy: https://projetoflamboyant.vercel.app/ (JPmall)
 
 ---
 

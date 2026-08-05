@@ -60,6 +60,30 @@ Sou estudante de Engenharia de Software (UFG) e estou focado em construir aplica
 - Setor Comercial do Flamboyant Shopping — sistema de gestão para lojistas (Go, PostgreSQL, React)
 - Projetos pessoais de agendamento para barbearias (iniciativas que evoluíram para o Barberlink)
 
+---
+
+## Screenshots
+
+Abaixo há placeholders para screenshots — assim que os arquivos forem adicionados em assets/screenshots/ as imagens aparecerão automaticamente.
+
+<p align="center">
+  <a href="assets/screenshots/screenshot-barberlink-public.png"><img src="assets/screenshots/screenshot-barberlink-public.png" alt="Barberlink - Portal público" width="700" /></a>
+</p>
+
+<p align="center">
+  <a href="assets/screenshots/screenshot-barberlink-admin.png"><img src="assets/screenshots/screenshot-barberlink-admin.png" alt="Barberlink - Painel admin" width="700" /></a>
+</p>
+
+<p align="center">
+  <a href="assets/screenshots/screenshot-jpmall.png"><img src="assets/screenshots/screenshot-jpmall.png" alt="JPmall - Dashboard" width="700" /></a>
+</p>
+
+> Observação: Atualmente essas imagens são placeholders. Para incluí‑las no repositório você pode:
+> - Fazer upload em /assets/screenshots/ com os nomes: screenshot-barberlink-public.png, screenshot-barberlink-admin.png, screenshot-jpmall.png; ou
+> - Me enviar os arquivos aqui no chat e eu os adiciono ao repositório para você.
+
+---
+
 > Veja mais projetos e código no meu perfil: https://github.com/Matheus-slvmr
 
 ---

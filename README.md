@@ -1,98 +1,156 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-slvmr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-slvmr&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="180em" />
+
+# Hi, I'm Matheus Silva 👋
+
+### Full-Stack Developer · Software Engineering Student at UFG · Founder of BarberLink
+
+I build reliable web products and backend systems focused on solving real business problems with performance, simplicity, and a great user experience.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-80a74b291/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ms4402334@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Let's%20Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562998389962)
+
 </div>
 
 ---
 
-# Matheus Silva
+## About me
 
-Desenvolvedor Fullstack • CEO & Fundador do Barberlink
+- 🎓 Software Engineering student at the Federal University of Goiás (UFG)
+- 🚀 Founder and developer of **BarberLink**, a platform for barbershop management and online booking
+- 💻 Experienced in building full-stack applications, REST APIs, dashboards, and relational databases
+- 🧠 Interested in backend engineering, software architecture, product development, and scalable systems
+- 🌱 Currently improving my skills in **Go, React, TypeScript, Docker, PostgreSQL, and cloud deployment**
 
-Sou estudante de Engenharia de Software (UFG) e estou focado em construir aplicações web e backend que resolvem problemas reais com performance, simplicidade e boa experiência para o usuário.
+<details>
+<summary><strong>🇧🇷 Sobre mim em português</strong></summary>
+<br />
+
+Sou estudante de Engenharia de Software na Universidade Federal de Goiás (UFG), desenvolvedor full-stack e fundador do BarberLink. Gosto de transformar problemas reais de negócios em produtos digitais simples, rápidos e bem estruturados. Tenho experiência com aplicações web, APIs REST, bancos de dados relacionais, dashboards administrativos e implantação de sistemas.
+
+</details>
 
 ---
 
-## Principais habilidades
-- Linguagens: Go, C, JavaScript, HTML5, CSS3
-- Backend: APIs REST em Go, arquiteturas simples, integração com PostgreSQL
-- Frontend: HTML/CSS, JavaScript e conhecimento em frameworks modernos (React, TypeScript)
-- Ferramentas: Git, Docker, gestão de versões e deploys
+## Tech stack
+
+<div align="center">
+
+### Languages
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks, databases & tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+</div>
 
 ---
 
-## Tecnologias & ferramentas
+## Featured projects
+
+### 💈 BarberLink
+
+**Founder & Full-Stack Developer**
+
+BarberLink is a complete platform for barbershop management and online appointments. It connects barbershops, professionals, and customers in one experience, helping businesses organize their schedules, services, clients, and daily operations.
+
+**Highlights**
+
+- Public booking page with services, prices, professionals, and available time slots
+- Management dashboard for barbershops, barbers, customers, and appointments
+- Working-hours, recurring-break, team, and service configuration
+- Central administration area for managing businesses and platform access
+- Responsive interfaces designed for both customers and professionals
+
+**Built with:** Go · PostgreSQL · SQL · JavaScript · HTML5 · CSS3 · Docker
+
+<p>
+  <a href="https://barberlink-web-46afa3250a71.herokuapp.com/"><img src="https://img.shields.io/badge/Open%20Platform-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open BarberLink" /></a>
+  <a href="https://barberlink-web-46afa3250a71.herokuapp.com/gestao"><img src="https://img.shields.io/badge/Management%20Panel-B7FF35?style=for-the-badge&logo=barber&logoColor=111111" alt="BarberLink management panel" /></a>
+  <a href="https://barberlink-web-46afa3250a71.herokuapp.com/barbearia/g8-barber-shop"><img src="https://img.shields.io/badge/Live%20Demo-G8%20Barber%20Shop-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="G8 Barber Shop demo" /></a>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <a href="assets/projects/barberlink-booking.png">
+    <img src="assets/projects/barberlink-booking.png" alt="BarberLink online booking page" width="49%" />
+  </a>
+  <a href="assets/projects/barberlink-dashboard.png">
+    <img src="assets/projects/barberlink-dashboard.png" alt="BarberLink management dashboard" width="49%" />
+  </a>
 </p>
 
 ---
 
-## Projetos em destaque
+### 🏬 JP Mall
 
-### Barberlink — CEO & Fundador
-- Papel: CEO e proprietário
-- Descrição: Plataforma completa para gestão de barbearias e agendamentos — criada para otimizar o fluxo de clientes, organização de horários e faturamento dos estabelecimentos.
-- Funcionalidades: agendamento online, painel administrativo para profissionais, gestão de clientes, integração com notificações (WhatsApp/Email) e relatórios de faturamento.
-- Tecnologias: Go, HTML/CSS, JavaScript, PostgreSQL
-- Demo / Deploy:
-  - Portal público: https://barberlink-web-46afa3250a71.herokuapp.com/
-  - Painel de gestão: https://barberlink-web-46afa3250a71.herokuapp.com/gestao
-  - Exemplo de barbearia: https://barberlink-web-46afa3250a71.herokuapp.com/barbearia/g8-barber-shop
+**Full-Stack Developer**
 
----
+JP Mall is a commercial management system designed for shopping center operations. It centralizes store availability, commercial proposals, contracts, occupancy data, and business indicators in a modern administrative dashboard.
 
-### JPmall
-- Descrição: Projeto de e‑commerce/marketplace pensado para vendas locais e gestão de catálogos.
-- Funcionalidades: catálogo de produtos, carrinho, checkout, painel administrativo para gestão de produtos e pedidos.
-- Tecnologias: Go (backend), PostgreSQL, HTML/CSS, JavaScript
-- Demo / Deploy: https://projetoflamboyant.vercel.app/ (JPmall)
+**Highlights**
 
----
+- Interactive floor plan with real-time store availability
+- Commercial proposal workflow with multiple approval statuses
+- Occupancy, category, floor, and contract indicators
+- Filters, card and table views, reports, and management dashboards
+- Visual analytics that support faster commercial decisions
 
-### Outros projetos
-- Setor Comercial do Flamboyant Shopping — sistema de gestão para lojistas (Go, PostgreSQL, React)
-- Projetos pessoais de agendamento para barbearias (iniciativas que evoluíram para o Barberlink)
+**Built with:** Go · PostgreSQL · SQL · React · TypeScript · JavaScript · HTML5 · CSS3
 
----
-
-## Screenshots
-
-Abaixo há placeholders para screenshots — assim que os arquivos forem adicionados em assets/screenshots/ as imagens aparecerão automaticamente.
-
-<p align="center">
-  <a href="assets/screenshots/screenshot-barberlink-public.png"><img src="assets/screenshots/screenshot-barberlink-public.png" alt="Barberlink - Portal público" width="700" /></a>
+<p>
+  <a href="https://projetoflamboyant.vercel.app/"><img src="https://img.shields.io/badge/Open%20Live%20Demo-E62E2E?style=for-the-badge&logo=vercel&logoColor=white" alt="Open JP Mall demo" /></a>
 </p>
 
 <p align="center">
-  <a href="assets/screenshots/screenshot-barberlink-admin.png"><img src="assets/screenshots/screenshot-barberlink-admin.png" alt="Barberlink - Painel admin" width="700" /></a>
+  <a href="assets/projects/jp-mall-dashboard.png">
+    <img src="assets/projects/jp-mall-dashboard.png" alt="JP Mall commercial dashboard" width="49%" />
+  </a>
+  <a href="assets/projects/jp-mall-floor-plan.png">
+    <img src="assets/projects/jp-mall-floor-plan.png" alt="JP Mall interactive floor plan" width="49%" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="assets/screenshots/screenshot-jpmall.png"><img src="assets/screenshots/screenshot-jpmall.png" alt="JPmall - Dashboard" width="700" /></a>
-</p>
+---
 
-> Observação: Atualmente essas imagens são placeholders. Para incluí‑las no repositório você pode:
-> - Fazer upload em /assets/screenshots/ com os nomes: screenshot-barberlink-public.png, screenshot-barberlink-admin.png, screenshot-jpmall.png; ou
-> - Me enviar os arquivos aqui no chat e eu os adiciono ao repositório para você.
+## GitHub activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-slvmr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Matheus Silva's GitHub statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-slvmr&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Matheus-slvmr&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
 ---
 
-> Veja mais projetos e código no meu perfil: https://github.com/Matheus-slvmr
+## Let's connect
 
----
+I'm open to collaborating on software products, backend systems, and web applications. If you would like to talk about a project, partnership, or opportunity, feel free to reach out.
 
-## Contato
-- Email: ms4402334@gmail.com
-- LinkedIn: https://www.linkedin.com/in/matheus-silva-80a74b291/
-- WhatsApp: https://wa.me/5562998389962
+- **Email:** [ms4402334@gmail.com](mailto:ms4402334@gmail.com)
+- **LinkedIn:** [Matheus Silva](https://www.linkedin.com/in/matheus-silva-80a74b291/)
+- **WhatsApp:** [Send a message](https://wa.me/5562998389962)
 
----
+<div align="center">
 
-> "A única maneira de fazer um excelente trabalho é amar o que você faz." — Adaptado
+_Turning ideas into useful, reliable software._
+
+![Profile views](https://komarev.com/ghpvc/?username=Matheus-slvmr&color=00ADD8&style=flat-square&label=Profile+views)
+
+</div>

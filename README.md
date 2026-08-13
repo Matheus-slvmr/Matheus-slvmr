@@ -2,7 +2,7 @@
 
 # Hi, I'm Matheus Silva 👋
 
-### Full-Stack Developer · Software Engineering Student at UFG · Founder of BarberLink
+### Full-Stack Developer · Software Engineering Student at UFG · Founder of CorteMarcado
 
 I build reliable web products and backend systems focused on solving real business problems with performance, simplicity, and a great user experience.
 

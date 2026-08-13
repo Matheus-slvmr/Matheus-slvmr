@@ -17,7 +17,7 @@ I build reliable web products and backend systems focused on solving real busine
 ## About me
 
 - 🎓 Software Engineering student at the Federal University of Goiás (UFG)
-- 🚀 Founder and developer of **BarberLink**, a platform for barbershop management and online booking
+- 🚀 Founder and developer of **CorteMarcado**, a platform for barbershop management and online booking
 - 💻 Experienced in building full-stack applications, REST APIs, dashboards, and relational databases
 - 🧠 Interested in backend engineering, software architecture, product development, and scalable systems
 - 🌱 Currently improving my skills in **Go, React, TypeScript, Docker, PostgreSQL, and cloud deployment**
@@ -62,11 +62,11 @@ Sou estudante de Engenharia de Software na Universidade Federal de Goiás (UFG),
 
 ## Featured projects
 
-### 💈 BarberLink
+### 💈 CorteMarcado
 
 **Founder & Full-Stack Developer**
 
-BarberLink is a complete platform for barbershop management and online appointments. It connects barbershops, professionals, and customers in one experience, helping businesses organize their schedules, services, clients, and daily operations.
+CorteMarcado is a complete platform for barbershop management and online appointments. It connects barbershops, professionals, and customers in one experience, helping businesses organize their schedules, services, clients, and daily operations.
 
 **Highlights**
 

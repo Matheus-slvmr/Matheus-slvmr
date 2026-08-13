@@ -76,12 +76,11 @@ CorteMarcado is a complete platform for barbershop management and online appoint
 - Central administration area for managing businesses and platform access
 - Responsive interfaces designed for both customers and professionals
 
-**Built with:** Go · PostgreSQL · SQL · JavaScript · HTML5 · CSS3 · Docker
+**Built with:** Python · PostgreSQL · SQL · HTML5 · CSS3 · Docker · Supabase · React · Typescript
 
 <p>
-  <a href="https://barberlink-web-46afa3250a71.herokuapp.com/"><img src="https://img.shields.io/badge/Open%20Platform-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open BarberLink" /></a>
-  <a href="https://barberlink-web-46afa3250a71.herokuapp.com/gestao"><img src="https://img.shields.io/badge/Management%20Panel-B7FF35?style=for-the-badge&logo=barber&logoColor=111111" alt="BarberLink management panel" /></a>
-  <a href="https://barberlink-web-46afa3250a71.herokuapp.com/barbearia/g8-barber-shop"><img src="https://img.shields.io/badge/Live%20Demo-G8%20Barber%20Shop-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="G8 Barber Shop demo" /></a>
+  <a href="http://usecortemarcado.com.br/"><img src="https://img.shields.io/badge/Open%20Platform-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open BarberLink" /></a>
+  <a href="https://usecortemarcado.com.br/barbearia/g8-barber-shop"><img src="https://img.shields.io/badge/Live%20Demo-G8%20Barber%20Shop-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="G8 Barber Shop demo" /></a>
 </p>
 
 <p align="center">
